@@ -1,3 +1,5 @@
+--version: Oracle
+
 /*
 input data: data/occupations.sql
 helpful tutorial: http://www.sqlsnippets.com/en/topic-12190.html
