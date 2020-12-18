@@ -1,5 +1,9 @@
 --version: Oracle
 
+/*
+input data: data/triangles.sql
+*/
+
 SELECT
 CASE
   WHEN (A + B <= C) or (A + C <= B) or (B + C <= A) THEN 'Not A Triangle'
