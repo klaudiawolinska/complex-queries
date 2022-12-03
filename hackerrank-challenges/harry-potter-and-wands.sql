@@ -1,8 +1,5 @@
 --version: Oracle
-
-/*
-problem description: https://www.hackerrank.com/challenges/harry-potter-and-wands/problem
-*/
+--problem description: https://www.hackerrank.com/challenges/harry-potter-and-wands/problem
 
 WITH cte AS (
     SELECT
